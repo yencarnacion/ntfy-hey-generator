@@ -1,6 +1,6 @@
 module ntfy-hey-generator
 
-go 1.23.0
+go 1.18
 
 require (
 	github.com/faiface/beep v1.1.0
